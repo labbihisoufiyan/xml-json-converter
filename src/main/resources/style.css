@@ -1,0 +1,42 @@
+/* Fond général gris */
+.root {
+    -fx-background-color: #e0e0e0;
+}
+
+/* Libellés (XML, JSON, titre géré en Java) */
+.label {
+    -fx-text-fill: #000000;
+    -fx-font-family: "Times New Roman";
+}
+
+/* Zones de texte en Times New Roman, fond blanc, texte noir */
+.text-area {
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 14px;
+    -fx-control-inner-background: #ffffff;
+    -fx-text-fill: #000000;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5;
+    -fx-padding: 10;
+}
+
+/* Boutons rouges en Times New Roman */
+.button {
+    -fx-background-color: #c62828; /* rouge */
+    -fx-text-fill: white;
+    -fx-background-radius: 8;
+    -fx-font-size: 15px;
+    -fx-font-family: "Times New Roman";
+    -fx-padding: 8 16 8 16;
+}
+
+.button:hover {
+    -fx-background-color: #b71c1c; /* rouge foncé */
+}
+
+/* Checkbox en Times New Roman, texte noir */
+.check-box {
+    -fx-font-size: 14px;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Times New Roman";
+}

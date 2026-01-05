@@ -1,0 +1,5 @@
+com\mycompany\xml\json\converter\JsonToXmlAPI.class
+com\mycompany\xml\json\converter\XmlJsonConverter.class
+com\mycompany\xml\json\converter\XmlToJson.class
+com\mycompany\xml\json\converter\JsonToXml.class
+com\mycompany\xml\json\converter\XmlToJsonAPI.class
